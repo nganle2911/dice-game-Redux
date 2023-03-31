@@ -1,0 +1,26 @@
+@font-face {
+    font-family: Handrawn;
+    src: url('../fonts/Delicious_Handrawn/DeliciousHandrawn-Regular.ttf');
+}
+
+.bg-game {
+    background: url("../img/bg.png");
+    background-position: center bottom;
+    min-height: 100vh;
+    font-family: Handrawn;
+}
+
+.btn-dark {
+    background-color: #686FB7;
+    border-color: #686FB7;
+}
+
+.btn-dark:hover {
+    background-color: #9E90C4;
+    border-color: #9E90C4;
+}
+
+.play {
+    font-size: 30px;
+    padding: 10px;
+}
